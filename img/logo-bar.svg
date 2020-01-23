@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 663 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-6409.49,-2679.79)">
+        <g id="logo-bar" transform="matrix(0.991913,0,0,0.788719,57.1969,566.188)">
+            <rect x="6404.08" y="2679.79" width="668.406" height="154.681" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="6404.08" y="2679.79" width="668.406" height="154.681"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="logo-bar1" transform="matrix(1.0078,0,0,1.26498,-68.3232,1885.06)">
+                    <path d="M7085.55,651.249C7085.55,645.149 7083.12,639.299 7078.81,634.986C7074.5,630.672 7068.65,628.249 7062.55,628.249C6945.59,628.249 6422.32,628.249 6422.32,628.249L6422.32,750.529L7062.55,750.529C7068.65,750.529 7074.5,748.106 7078.81,743.792C7083.12,739.479 7085.55,733.629 7085.55,727.529C7085.55,705.702 7085.55,673.076 7085.55,651.249Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

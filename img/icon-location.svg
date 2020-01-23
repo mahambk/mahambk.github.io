@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 34 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-5581.92,-1981.77)">
+        <g id="icon-location" transform="matrix(0.871664,0,0,1,660.708,86.1418)">
+            <rect x="5645.76" y="1895.63" width="39.006" height="54" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="5645.76" y="1895.63" width="39.006" height="54"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.16014,0,0,0.994659,5369.27,-49.8645)">
+                    <g>
+                        <path d="M254.392,2009.83C254.558,2010.08 254.838,2010.23 255.136,2010.23C255.435,2010.23 255.715,2010.08 255.881,2009.83C259.134,2004.92 271.947,1984.8 271.947,1972.75C271.947,1963.47 264.415,1955.94 255.136,1955.94C245.858,1955.94 238.326,1963.47 238.326,1972.75C238.326,1984.8 251.139,2004.92 254.392,2009.83ZM255.136,1967.19C259.215,1967.19 262.526,1970.5 262.526,1974.58C262.526,1978.65 259.215,1981.97 255.136,1981.97C251.058,1981.97 247.747,1978.65 247.747,1974.58C247.747,1970.5 251.058,1967.19 255.136,1967.19Z" style="fill:rgb(183,172,152);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

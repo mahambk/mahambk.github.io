@@ -1,0 +1,166 @@
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;*/
+
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.bg-machine-container {
+	position: absolute;
+	width: 100vw;
+	z-index: -1;
+	text-align: center;
+}
+
+.bg-machine {
+	width: 90vw;
+    max-width: 1000px;
+}
+
+.bg-top {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -10;
+    height: 100%;
+    
+}
+
+.bg-beans {
+    position: absolute;
+    left: -4em;
+    top: -10em;
+    width: 8em;
+    z-index: -1;
+}
+
+.header {
+	padding-top: 290px;
+    margin-bottom: 8em;
+    height: 100vh;
+}
+
+.logos {
+	height: 58px;
+	margin-bottom: 13px;
+}
+
+.logo-strip {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    padding: 1em 20px 0.5em 25vw;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: white;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1.title {
+	font-weight: 800;
+	font-size: 4rem !important;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+h2.title {
+	font-weight: 700;
+	font-style: italic;
+	margin-top: 1em;
+	margin-bottom: .4em;
+}
+
+h5 {
+}
+
+.agenda {
+    margin-bottom: 2.5em;
+}
+
+p.subtitle {
+	font-size: 1.3em;
+	padding-top: 1em;
+	width: 23em;
+}
+
+p.join-us {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4em;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 2.5em;
+    margin-bottom: 2em;
+}
+
+p.ready {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4em;
+    font-weight: 800;
+    font-style: italic;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+span.bold {
+    font-weight: 700;
+}
+
+.form-container {
+    background-color: #E1F1F8;
+    border-radius: 20px;
+    margin-top: 3em;
+    margin-bottom: 8em;
+}
+
+form {
+    padding: 1em;
+    
+}
+
+input[type=text] {
+    border-radius: 20px;
+    margin-bottom: 1em;
+    border-style: none;
+    padding-left: 18px;
+}
+
+.button {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.1em;
+    background-color: #B7AC98;
+    color: white;
+    padding: .5em 1em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.video {
+    width: 100%;
+    margin-bottom: 10em;
+}
+
+.icon {
+    width: 1.7em;
+}
+
+.copyright {
+    position: absolute;
+    bottom: 2em;
+    color: white;
+    z-index: 10;
+}
+
+
+/*@media (min-width: 768px) {
+}*/
